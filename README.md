@@ -1,5 +1,5 @@
 # AmazonMovieReviewer
-Project for SFWR ENG 2XB3 (McMaster University)
+The AmazonMovieReviewer can pull up the top three moview reviews from a large data base.
 
 Sample Test ASINs:
 
